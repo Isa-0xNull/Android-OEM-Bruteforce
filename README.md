@@ -8,7 +8,7 @@ But don't move the folder away!
 - Boot your phone as you normaly do it.
 - Call ``*#06#`` save the IMEI
 
-## Umlock OEM 
+## Unlock OEM for the dev-mode
 - Google for it!
 
 ## Get your Device-ID
