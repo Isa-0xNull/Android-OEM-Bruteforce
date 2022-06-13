@@ -8,6 +8,9 @@ But don't move the folder away!
 - Boot your phone as you normaly do it.
 - Call ``*#06#`` save the IMEI
 
+## Umlock OEM 
+- Google for it!
+
 ## Get your Device-ID
 - Open the Commandline/Terminal/CMD whatever
 - Nav to the tool folder
